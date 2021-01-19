@@ -24,6 +24,7 @@ author = 'asdad'
 # The full version, including alpha/beta/rc tags
 release = 'asd'
 
+master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
 
