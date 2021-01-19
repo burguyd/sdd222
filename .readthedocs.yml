@@ -5,5 +5,5 @@
 python:
    version: 3.6
 
-# Default
 formats: []
+html_static_path: []
